@@ -1,31 +1,29 @@
-Khyati Sharma
+👋 Hi, I'm Khyati Sharma
 
-B.Tech (AI) Student | Backend & Machine Learning
-India
+B.Tech (AI) Student | Backend & Machine Learning | India 🇮🇳
 
-About
+🚀 About Me
 
-I am an undergraduate student pursuing Artificial Intelligence, focused on building strong fundamentals in:
+I'm an undergraduate student specializing in Artificial Intelligence, focused on building strong fundamentals in:
 
-Python
+🐍 Python
 
-Machine Learning
+🤖 Machine Learning
 
-Backend Development
+⚙️ Backend Development
 
-I enjoy working on practical projects and understanding how systems work end-to-end — from data to deployment.
+I enjoy working on practical, real-world projects and understanding systems end-to-end — from data processing to deployment.
 
-My long-term goal is to build scalable products and eventually start my own venture.
+🎯 Long-term goal: Build scalable products and eventually start my own venture.
 
-Skills
-
-Languages
+🛠️ Skills
+💻 Languages
 
 Python
 
 C++
 
-Backend
+⚙️ Backend
 
 Flask
 
@@ -33,7 +31,7 @@ REST APIs
 
 JWT Authentication
 
-Data & ML
+📊 Data & Machine Learning
 
 Pandas
 
@@ -41,16 +39,16 @@ NumPy
 
 Scikit-learn
 
-Tools
+🔧 Tools
 
 Git & GitHub
 
 VS Code
 
-Thunder Client / Postman
+Postman / Thunder Client
 
-Featured Projects
-Flask Authentication API
+🌟 Featured Projects
+🔐 Flask Authentication API
 
 A production-style authentication system with:
 
@@ -64,19 +62,21 @@ Role-based authorization
 
 Protected routes
 
-Tech: Flask, SQLite, JWT, bcrypt
+Tech stack: Flask, SQLite, JWT, bcrypt
 
-Machine Learning Practice
+📈 Machine Learning Practice
+
+Hands-on ML projects covering:
 
 Data preprocessing
 
-Exploratory Data Analysis
+Exploratory Data Analysis (EDA)
 
 Regression models
 
-Real datasets
+Real-world datasets
 
-Currently Learning
+📚 Currently Learning
 
 Advanced Python (OOP, design patterns)
 
@@ -84,7 +84,7 @@ Machine Learning fundamentals
 
 Backend system design
 
-Goals
+🎯 Goals
 
 Build a strong project portfolio
 
@@ -92,8 +92,8 @@ Secure meaningful internships
 
 Develop real-world engineering skills
 
-Contact
+📬 Connect With Me
 
 GitHub: @itskhyatii19
 
-LinkedIn: (add when ready)
+LinkedIn: (Coming soon)
