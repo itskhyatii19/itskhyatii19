@@ -1,99 +1,101 @@
-👋 Hi, I'm Khyati Sharma
+# 👋 Hi, I'm Khyati Sharma  
 
-B.Tech (AI) Student | Backend & Machine Learning | India 🇮🇳
+![Python](https://img.shields.io/badge/Python-Developer-blue?style=flat-square&logo=python)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=flat-square&logo=scikit-learn)
+![Backend](https://img.shields.io/badge/Backend-Flask-black?style=flat-square&logo=flask)
+![Git](https://img.shields.io/badge/Version%20Control-Git-red?style=flat-square&logo=git)
+![Status](https://img.shields.io/badge/Status-Student-success?style=flat-square)
+![Location](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat-square)
 
-🚀 About Me
+**B.Tech (AI) Student | Backend & Machine Learning | India 🇮🇳**
 
-I'm an undergraduate student specializing in Artificial Intelligence, focused on building strong fundamentals in:
+---
 
-🐍 Python
+## 🚀 About Me
 
-🤖 Machine Learning
+I'm an undergraduate student specializing in **Artificial Intelligence**, focused on building strong fundamentals in:
 
-⚙️ Backend Development
+- 🐍 **Python**
+- 🤖 **Machine Learning**
+- ⚙️ **Backend Development**
 
-I enjoy working on practical, real-world projects and understanding systems end-to-end — from data processing to deployment.
+I enjoy working on **real-world projects** and understanding systems **end-to-end** —  
+from data processing to deployment.
 
-🎯 Long-term goal: Build scalable products and eventually start my own venture.
+🎯 **Long-term goal:** Build scalable products and eventually start my own venture.
 
-🛠️ Skills
-💻 Languages
+---
 
-Python
+## 🛠️ Skills
 
-C++
+### 💻 Languages
+- Python  
+- C++  
 
-⚙️ Backend
+### ⚙️ Backend
+- Flask  
+- REST APIs  
+- JWT Authentication  
 
-Flask
+### 📊 Data & Machine Learning
+- Pandas  
+- NumPy  
+- Scikit-learn  
 
-REST APIs
+### 🔧 Tools
+- Git & GitHub  
+- VS Code  
+- Postman / Thunder Client  
 
-JWT Authentication
+---
 
-📊 Data & Machine Learning
+## 🌟 Featured Projects
 
-Pandas
+### 🔐 Flask Authentication API
+A **production-style authentication system** with:
 
-NumPy
+- Secure login & signup  
+- Password hashing  
+- JWT access & refresh tokens  
+- Role-based authorization  
+- Protected routes  
 
-Scikit-learn
+**Tech stack:** Flask, SQLite, JWT, bcrypt, Docker  
 
-🔧 Tools
+---
 
-Git & GitHub
-
-VS Code
-
-Postman / Thunder Client
-
-🌟 Featured Projects
-🔐 Flask Authentication API
-
-A production-style authentication system with:
-
-Secure login & signup
-
-Password hashing
-
-JWT access & refresh tokens
-
-Role-based authorization
-
-Protected routes
-
-Tech stack: Flask, SQLite, JWT, bcrypt
-
-📈 Machine Learning Practice
-
+### 📈 Machine Learning Practice
 Hands-on ML projects covering:
 
-Data preprocessing
+- Data preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Regression models  
+- Real-world datasets  
 
-Exploratory Data Analysis (EDA)
+---
 
-Regression models
+## 📚 Currently Learning
 
-Real-world datasets
+- Advanced Python (OOP, design patterns)  
+- Machine Learning fundamentals  
+- Backend system design  
 
-📚 Currently Learning
+---
 
-Advanced Python (OOP, design patterns)
+## 🎯 Goals
 
-Machine Learning fundamentals
+- Build a strong project portfolio  
+- Secure meaningful internships  
+- Develop real-world engineering skills  
 
-Backend system design
+---
 
-🎯 Goals
+## 📬 Connect With Me
 
-Build a strong project portfolio
+- **GitHub:** [@itskhyatii19](https://github.com/itskhyatii19)
 
-Secure meaningful internships
+---
 
-Develop real-world engineering skills
+⭐ *Thanks for visiting my profile!*  
+Let’s build something amazing 🚀
 
-📬 Connect With Me
-
-GitHub: @itskhyatii19
-
-LinkedIn: (Coming soon)
