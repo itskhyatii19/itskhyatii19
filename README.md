@@ -1,101 +1,133 @@
 # 👋 Hi, I'm Khyati Sharma  
 
 ![Python](https://img.shields.io/badge/Python-Developer-blue?style=flat-square&logo=python)
-![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=flat-square&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=flat-square&logo=scikit-learn)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Cosine%20Similarity-yellow?style=flat-square)
 ![Backend](https://img.shields.io/badge/Backend-Flask-black?style=flat-square&logo=flask)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-red?style=flat-square&logo=git)
-![Status](https://img.shields.io/badge/Status-Student-success?style=flat-square)
-![Location](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-B.Tech%20AI%20Student-success?style=flat-square)
 
-**B.Tech (AI) Student | Backend & Machine Learning | India 🇮🇳**
+**B.Tech (Artificial Intelligence) Student | Python • Machine Learning • Backend**  
+📍 India 🇮🇳
 
 ---
 
 ##  About Me
 
-I'm an undergraduate student specializing in **Artificial Intelligence**, focused on building strong fundamentals in:
+I am a **B.Tech student in Artificial Intelligence** with a strong interest in **applied machine learning and Python-based systems**.
 
-- 🐍 **Python**
-- 🤖 **Machine Learning**
-- ⚙️ **Backend Development**
+I focus on building projects that go **beyond notebooks**, emphasizing:
+- clean project structure  
+- reproducible ML pipelines  
+- practical problem solving  
+- understanding systems end-to-end  
 
-I enjoy working on **real-world projects** and understanding systems **end-to-end** —  
-from data processing to deployment.
+I enjoy working on **real-world data**, implementing models from scratch, and writing readable, modular code.
 
-🎯 **Long-term goal:** Build scalable products and eventually start my own venture.
+🎯 **Long-term goal:** Build scalable, real-world products and grow into a strong AI/ML engineer.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-###  Languages
+###  Programming
 - Python  
-- C++  
+- C++ (basics)
 
-###  Backend
+###  Machine Learning
+- Regression & Classification  
+- Model training, evaluation, and metrics  
+- Feature preprocessing  
+- Scikit-learn  
+
+###  NLP (Classical)
+- TF-IDF  
+- Cosine similarity  
+- Text preprocessing  
+- Resume & job description matching  
+
+###  Backend Development
 - Flask  
 - REST APIs  
 - JWT Authentication  
-
-###  Data & Machine Learning
-- Pandas  
-- NumPy  
-- Scikit-learn  
+- Role-based access control  
 
 ###  Tools
 - Git & GitHub  
 - VS Code  
 - Postman / Thunder Client  
+- Docker (basics)
 
 ---
 
 ##  Featured Projects
 
 ### 🔐 Flask Authentication API
-A **production-style authentication system** with:
+A **production-style backend system** implementing secure authentication.
 
-- Secure login & signup  
-- Password hashing  
+**Key features:**
+- User signup & login  
+- Password hashing (bcrypt)  
 - JWT access & refresh tokens  
 - Role-based authorization  
-- Protected routes  
+- Token blacklist logout  
+- Swagger API documentation  
+- Dockerized setup  
 
 **Tech stack:** Flask, SQLite, JWT, bcrypt, Docker  
 
 ---
 
-### 📈 Machine Learning Practice
-Hands-on ML projects covering:
+### 🧠 Smart Resume Matcher (ATS Engine)
+An **ATS-style resume ranking system** built using NLP techniques.
 
-- Data preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Regression models  
+**Highlights:**
+- Resume & job description parsing  
+- TF-IDF vectorization  
+- Cosine similarity scoring  
+- Rule-based + semantic scoring  
+- Batch resume ranking with explainable output  
+
+**Tech stack:** Python, NLP (TF-IDF), scikit-learn  
+
+---
+
+### 📈 Machine Learning Practice Repository
+A **structured ML fundamentals repository** covering:
+
+- Data preprocessing & EDA  
+- Regression (Linear, Polynomial)  
+- Classification (Logistic Regression, SVM, Random Forest, Decision Trees)  
+- ML pipelines & reusable components  
 - Real-world datasets  
 
----
-
-##  Currently Learning
-
-- Advanced Python (OOP, design patterns)  
-- Machine Learning fundamentals  
-- Backend system design  
+Focuses on **foundational depth, clean structure, and consistency**.
 
 ---
 
-##  Goals
+## 📚 Currently Learning
 
-- Build a strong project portfolio  
-- Secure meaningful internships  
-- Develop real-world engineering skills  
+- Advanced Python (OOP, decorators, design patterns)  
+- Machine learning fundamentals in depth  
+- NLP basics and text similarity techniques  
+- Writing production-style Python projects  
 
 ---
 
-##  Connect With Me
+##  Current Goals
+
+- Strengthen ML fundamentals through hands-on projects  
+- Secure meaningful ML / AI / Python internships  
+- Improve problem-solving and system design skills  
+- Build a credible, consistent GitHub portfolio  
+
+---
+
+## 🔗 Connect With Me
 
 - **GitHub:** [@itskhyatii19](https://github.com/itskhyatii19)
 
 ---
 
 ⭐ *Thanks for visiting my profile!*  
-Let’s build something amazing 🚀
-
+I believe in **learning by building** — one project at a time 🚀
