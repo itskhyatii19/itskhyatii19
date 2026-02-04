@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an undergraduate student specializing in **Artificial Intelligence**, focused on building strong fundamentals in:
 
@@ -28,28 +28,28 @@ from data processing to deployment.
 
 ## 🛠️ Skills
 
-### 💻 Languages
+###  Languages
 - Python  
 - C++  
 
-### ⚙️ Backend
+###  Backend
 - Flask  
 - REST APIs  
 - JWT Authentication  
 
-### 📊 Data & Machine Learning
+###  Data & Machine Learning
 - Pandas  
 - NumPy  
 - Scikit-learn  
 
-### 🔧 Tools
+###  Tools
 - Git & GitHub  
 - VS Code  
 - Postman / Thunder Client  
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 🔐 Flask Authentication API
 A **production-style authentication system** with:
@@ -74,7 +74,7 @@ Hands-on ML projects covering:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Python (OOP, design patterns)  
 - Machine Learning fundamentals  
@@ -82,7 +82,7 @@ Hands-on ML projects covering:
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build a strong project portfolio  
 - Secure meaningful internships  
@@ -90,7 +90,7 @@ Hands-on ML projects covering:
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 - **GitHub:** [@itskhyatii19](https://github.com/itskhyatii19)
 
